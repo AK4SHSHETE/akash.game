@@ -1,0 +1,2 @@
+# akash.game
+ simple game
